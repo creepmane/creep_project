@@ -23,7 +23,8 @@
     "@types/passport": "^1.0.1",
     "@types/passport-local": "^1.0.33",
     "@types/bcryptjs": "^2.4.2",
-    "@types/express-session": "^1.17.1" 
+    "@types/express-session": "^1.17.1",
+    "@types/js-yaml": "^3.12.5"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
